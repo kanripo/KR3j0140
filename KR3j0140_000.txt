@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 勤有堂隨錄
+#+DATE: 2015-08-24 23:24:49.903037
+#+PROPERTY: ID KR3j0140
+#+PROPERTY: BASEEDITION WYG    
